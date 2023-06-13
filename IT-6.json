@@ -112,13 +112,12 @@
             "type": "folder",
             "DataAnalyticsBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Mastering Social Media Mining with Python",
+                "id": "1zpORybGu5MtmGsq4dB5SBhnbgilTVpDE",
+                "solution": null
               }
             ]
           },
@@ -127,13 +126,12 @@
             "type": "folder",
             "DataAnalyticsNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Data Analytics Slides",
+                "id": "1d1oKihQmwrSwJeBufijF1ucs3hcKXY5H",
+                "solution": null
               }
             ]
           }
@@ -186,13 +184,12 @@
             "type": "folder",
             "AIBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Artificial Intelligence: A Modern Approach",
+                "id": "1iPCfuk-srHgiliKWqJBi3B0CQaKiQZ93",
+                "solution": null
               }
             ]
           },
@@ -201,13 +198,20 @@
             "type": "folder",
             "AINOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Artificial Intelligence Notes",
+                "id": "1hirlDVYgzAF2Af2JM7LDJj25yXCr2LU8",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Artificial Intelligence Slides",
+                "id": "1pggpssE0T2bk9pu9o3HkUHDqtERt4MZ_",
+                "solution": null
               }
             ]
           }
@@ -340,13 +344,12 @@
             "type": "folder",
             "MLBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Applied Machine Learning",
+                "id": "1WNVuOraimUY3g0lZncyC2goH159q0UJA",
+                "solution": null
               }
             ]
           },
@@ -355,13 +358,20 @@
             "type": "folder",
             "MLNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Machine Learning Notes",
+                "id": "1h0Q4K4HE7zTgiJyPQPo2ymNGLwHFJsSY",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Machine Learning Slides",
+                "id": "1X2_zLGHdyGX8DrAGfqcVHbR38KUNr0Kg",
+                "solution": null
               }
             ]
           }
@@ -406,13 +416,12 @@
             "type": "folder",
             "MobileComputingBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Fundamentals of Mobile Computing",
+                "id": "1jJwdkKBDfdNgg-lLftnom4uTOMQ6xpD6",
+                "solution": null
               }
             ]
           },
@@ -421,13 +430,12 @@
             "type": "folder",
             "MobileComputingNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Mobile Computing Slides",
+                "id": "1gm78GW-xwqeRY0ArHozZrqEUYwvXcxV1",
+                "solution": null
               }
             ]
           }
@@ -488,13 +496,13 @@
             "type": "folder",
             "OOSDBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Object oriented systems development",
+                "id": "10l4FwRne8GMoRlIKqtbhpndH6fIq0mPt",
+                "solution": null
+              
               }
             ]
           },
@@ -503,13 +511,12 @@
             "type": "folder",
             "OOSDNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "contribute?",
+                "id": "/app/contribute/IT/6",
+                "solution": null
               }
             ]
           }

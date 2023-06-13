@@ -64,13 +64,12 @@
             "type": "folder",
             "Mathematics-2BOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Advanced Engineering Mathematics",
+                "id": "1HK6Ur-vj92HTh0CobvnSKzpmJUzPH_7o",
+                "solution": null
               }
             ]
           },
@@ -79,13 +78,12 @@
             "type": "folder",
             "Mathematics-2NOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "contribute?",
+                "id": "/app/contribute/IT/2",
+                "solution": null
               }
             ]
           }
@@ -162,13 +160,12 @@
             "type": "folder",
             "ChemistryBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Engineering Chemistry: Fundamentals and ApplicationsPhysical Chemistry",
+                "id": "1HmgXZq8Ro18q22YsRK9IkIq7K3micHxH",
+                "solution": null
               }
             ]
           },
@@ -177,13 +174,12 @@
             "type": "folder",
             "ChemistryNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Chemistry Notes",
+                "id": "1AnSEmdS2Wi5FHJFTDEVt4EFgEQIS5ugT",
+                "solution": null
               }
             ]
           }
@@ -260,13 +256,12 @@
             "type": "folder",
             "PCOMBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Technical Communication Principles and Practice",
+                "id": "1LCzw9iQKNBNozYtxJMMrov5-Bqk1gaAJ",
+                "solution": null
               }
             ]
           },
@@ -275,13 +270,12 @@
             "type": "folder",
             "PCOMNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Professional Communication Notes",
+                "id": "1TLPDtbbHbLaU9-RTp7ykJlwZWJFBDF_r",
+                "solution": null
               }
             ]
           }
@@ -318,13 +312,12 @@
             "type": "folder",
             "BiologyBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "",
+                "id": "/app/contribute/IT/2",
+                "solution": null
               }
             ]
           },
@@ -333,13 +326,12 @@
             "type": "folder",
             "BiologyNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "contribute?",
+                "id": "/app/contribute/IT/2",
+                "solution": null
               }
             ]
           }

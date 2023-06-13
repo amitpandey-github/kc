@@ -168,13 +168,12 @@
             "type": "folder",
             "DSABOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Data Structures and Algorithms Made Easy : Data Structure and Algorithmic Puzzles",
+                "id": "12YljTBX1zJVvGEjDXZrFpH883saIsShq",
+                "solution": null
               }
             ]
           },
@@ -183,13 +182,12 @@
             "type": "folder",
             "DSANOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Data Structures and Algorithms Notes",
+                "id": "1KMDjN4vouRLyPAwyr9088Ewoxg4V26BI",
+                "solution": null
               }
             ]
           }
@@ -290,13 +288,12 @@
             "type": "folder",
             "DEBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Fundamentals of Digital Circuits",
+                "id": "19jbMSjww2X-RDAbkXiWYlibdfULNNV67",
+                "solution": null
               }
             ]
           },
@@ -305,13 +302,12 @@
             "type": "folder",
             "DENOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Digital Electronics Notes",
+                "id": "19GMCy9CzLXGDtFzuIVvqVDgXm6tW-zvS",
+                "solution": null
               }
             ]
           }
@@ -348,13 +344,12 @@
             "type": "folder",
             "OOPBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Object-Oriented Programming with C++",
+                "id": "18PkgKcUvO9MEkX6n6PTgyk4Vn2e9LGu4",
+                "solution": null
               }
             ]
           },
@@ -363,13 +358,13 @@
             "type": "folder",
             "OOPNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Object Oriented Programming Slides",
+                "id": "1fXekL6BVMBr--H4r6AdMwLqmgcYaPC1l",
+                "solution": null
+              
               }
             ]
           }
@@ -478,13 +473,12 @@
             "type": "folder",
             "DMSBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Discrete Mathematics and Its Applications",
+                "id": "1cfOFhAeXaUMJEwUcxK0D2yXMfOiTwWKO",
+                "solution": null
               }
             ]
           },
@@ -493,13 +487,12 @@
             "type": "folder",
             "DMSNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Discrete Mathematics",
+                "id": "17JCnAncpfaSHqi-_H3pKpxURo0Pegp-P",
+                "solution": null
               }
             ]
           }

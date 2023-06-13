@@ -176,13 +176,12 @@
             "type": "folder",
             "CDBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Compilers: Principles, Techniques, and Tools",
+                "id": "13bE9T1e2FcOsEb7volOZRw7VlnP6SfVd",
+                "solution": null
               }
             ]
           },
@@ -191,26 +190,41 @@
             "type": "folder",
             "CDNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Compiler Design Notes 1",
+                "id": "1WC5ri65-tHyCPgnEsiW5RMKLUn2O2Mbh",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Compiler Design Notes 2",
+                "id": "1j7Ppr5z4sT3HwBuCIQLRrKF2WNdfGUac",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Compiler Design Notes 3",
+                "id": "1AiBQU78LpSjjeEHk6NyQZKo0ujUuxTyq",
+                "solution": null
               }
             ]
           }
         ]
       },
       {
-        "name": "CloudComputing",
+        "name": "CC",
         "type": "folder",
-        "CloudComputing": [
+        "CC": [
           {
             "name": "PYQS",
             "type": "folder",
-            "CloudComputingPYQS": [
+            "CCPYQS": [
               {
                 "mimeType": "application/pdf",
                 "year": "-",
@@ -368,30 +382,36 @@
           {
             "name": "BOOK",
             "type": "folder",
-            "CloudComputingBOOK": [
+            "CCBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing: Principles and Paradigms",
+                "id": "1_d-BMBHALbIQOX6T0ftcRZbYiEZ_4sci",
+                "solution": null
               }
             ]
           },
           {
             "name": "NOTES",
             "type": "folder",
-            "CloudComputingNOTES": [
+            "CCNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing Slides 1",
+                "id": "1Fh0z9cQHwiux3KWf77b96SRX5ZsfAHJm",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing Slides 2",
+                "id": "1Nbxce2VxpuaJUS4cmZUS_estXgBSTeEP",
+                "solution": null
               }
             ]
           }
@@ -508,13 +528,12 @@
             "type": "folder",
             "SPMBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Project Management",
+                "id": "17W6_TakD0m2tVufTzS86T5rIsT7rQtv0",
+                "solution": null
               }
             ]
           },
@@ -523,13 +542,20 @@
             "type": "folder",
             "SPMNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Project Management Slides 1",
+                "id": "1wKMxxWjW_aaWT9-LVFwv2R_Oycwnq2eN",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Project Management Slides 2",
+                "id": "11-JrFnW2yPc8qCcN4zfDd-gX0dirLUyW",
+                "solution": null
               }
             ]
           }
@@ -662,13 +688,12 @@
             "type": "folder",
             "MLBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Applied Machine Learning",
+                "id": "1WNVuOraimUY3g0lZncyC2goH159q0UJA",
+                "solution": null
               }
             ]
           },
@@ -677,13 +702,20 @@
             "type": "folder",
             "MLNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Machine Learning Notes",
+                "id": "1h0Q4K4HE7zTgiJyPQPo2ymNGLwHFJsSY",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Machine Learning Slides",
+                "id": "1X2_zLGHdyGX8DrAGfqcVHbR38KUNr0Kg",
+                "solution": null
               }
             ]
           }
@@ -776,13 +808,12 @@
             "type": "folder",
             "NLPBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Foundations of Statistical Natural Language ProcessingSpeech and Language Processing",
+                "id": "1wDguJIHvm_JCNoZVwMt4HZP-0MpE4Rv6",
+                "solution": null
               }
             ]
           },
@@ -791,13 +822,20 @@
             "type": "folder",
             "NLPNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Natural Language Processing Slides",
+                "id": "1EQDa0dqQlEnTplqeZ6_Mu7Gbv-jxprOu",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Natural Language Processing Notes",
+                "id": "1GyU30KCNnT7MWpI4BIQycGR8nzDEr9hV",
+                "solution": null
               }
             ]
           }
@@ -914,13 +952,12 @@
             "type": "folder",
             "DABOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Mastering Social Media Mining with Python",
+                "id": "1zpORybGu5MtmGsq4dB5SBhnbgilTVpDE",
+                "solution": null
               }
             ]
           },
@@ -929,13 +966,12 @@
             "type": "folder",
             "DANOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Data Analytics Slides",
+                "id": "1d1oKihQmwrSwJeBufijF1ucs3hcKXY5H",
+                "solution": null
               }
             ]
           }
@@ -1020,13 +1056,12 @@
             "type": "folder",
             "IOTBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Internet of Things: A Hands-on Approach",
+                "id": "13MgsyH3rWokNaL3VyQnzZ4QzpXsSAymH",
+                "solution": null
               }
             ]
           },
@@ -1035,13 +1070,12 @@
             "type": "folder",
             "IOTNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Internet of Things Notes",
+                "id": "1hPp6RN1Ipf0ZTDKQwsbB1MhrCEAaNiUz",
+                "solution": null
               }
             ]
           }

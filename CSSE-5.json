@@ -80,13 +80,12 @@
             "type": "folder",
             "IOTBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Internet of Things: A Hands-on Approach",
+                "id": "13MgsyH3rWokNaL3VyQnzZ4QzpXsSAymH",
+                "solution": null
               }
             ]
           },
@@ -95,13 +94,13 @@
             "type": "folder",
             "IOTNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Internet of Things Notes",
+                "id": "1hPp6RN1Ipf0ZTDKQwsbB1MhrCEAaNiUz",
+                "solution": null
+              
               }
             ]
           }
@@ -274,13 +273,12 @@
             "type": "folder",
             "CNBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networks: A Top-down Approach",
+                "id": "1z1Mm63zHf3tSXbNlzeaU94_Zc5_eGtlY",
+                "solution": null
               }
             ]
           },
@@ -289,13 +287,28 @@
             "type": "folder",
             "CNNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networking Notes 1",
+                "id": "1GqZvp3v8sUw1fpLbr5IY7Uw5m4kWIhB_",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networking Notes 2",
+                "id": "1xRoTs3-bTMW2BcwARLXBXbSSrI0h7yPw",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networking Slides",
+                "id": "19_aeCAoDjjkwDorwYTg0IUUUh6LgIrlZ",
+                "solution": null
               }
             ]
           }
@@ -348,13 +361,12 @@
             "type": "folder",
             "AIBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Artificial Intelligence: A Modern Approach",
+                "id": "1iPCfuk-srHgiliKWqJBi3B0CQaKiQZ93",
+                "solution": null
               }
             ]
           },
@@ -363,13 +375,20 @@
             "type": "folder",
             "AINOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Artificial Intelligence Notes",
+                "id": "1hirlDVYgzAF2Af2JM7LDJj25yXCr2LU8",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Artificial Intelligence Slides",
+                "id": "1pggpssE0T2bk9pu9o3HkUHDqtERt4MZ_",
+                "solution": null
               }
             ]
           }
@@ -534,13 +553,12 @@
             "type": "folder",
             "SEBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Fundamentals of Software Engineering",
+                "id": "1Fpy3YWDXLI41eT7Ve08Rm3EVewooYoA5",
+                "solution": null
               }
             ]
           },
@@ -549,13 +567,36 @@
             "type": "folder",
             "SENOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Notes 1",
+                "id": "1iV2mH1h1p3qnMisCDxqG2-2bz0h7ybdG",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Notes 2",
+                "id": "1PZS_silP27FpNf1LKPPz6kkmpObbwhwk",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Notes 3",
+                "id": "1vJRa5fuTx-LJxu4Hb0O7WCErawV24u82",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Slides",
+                "id": "1wPqqqXo26SwY3rJRqKrj-CBJK9qO7Vic",
+                "solution": null
               }
             ]
           }

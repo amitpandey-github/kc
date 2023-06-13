@@ -72,13 +72,12 @@
             "type": "folder",
             "MATHS-1BOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Advanced Engineering Mathematics",
+                "id": "1fFq5jf9kxMn1t713vfYrwmUfJ1mmjlg5",
+                "solution": null
               }
             ]
           },
@@ -87,13 +86,12 @@
             "type": "folder",
             "MATHS-1NOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Mathematics Part One Notes",
+                "id": "1y-4GXyNqRWcvlKEiKa2Z3QtfXBSDRTOa",
+                "solution": null
               }
             ]
           }
@@ -218,13 +216,12 @@
             "type": "folder",
             "PhysicsBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Engineering Physics",
+                "id": "1ZrUCZyGD9OAll5yRh15VBFIj3OsMhAw7",
+                "solution": null
               }
             ]
           },
@@ -233,13 +230,12 @@
             "type": "folder",
             "PhysicsNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Physics Notes",
+                "id": "1w2wVZidZVgtR3FDfcbJ5vzkzhfUm4mVJ",
+                "solution": null
               }
             ]
           }
@@ -308,13 +304,12 @@
             "type": "folder",
             "BEEBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Basic Electrical Engineering",
+                "id": "1PshoP-aEKQlmUyXvm3NEfIg0XdbN--AP",
+                "solution": null
               }
             ]
           },
@@ -323,13 +318,20 @@
             "type": "folder",
             "BEENOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Basic Electrical Engineering Notes 1",
+                "id": "1V_vvaJDu27CgMHG4HCA7fqq9Mi3gGDAE",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Basic Electrical Engineering Notes 2",
+                "id": "1aqCFIgB7Oq3iUyr_lR4qSoQaP95fmuAc",
+                "solution": null
               }
             ]
           }
@@ -366,13 +368,12 @@
             "type": "folder",
             "AECBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Electronic Devices and Circuit Theory",
+                "id": "1duRiBfPEOpMtOjcRolbr9a4wG8voAttY",
+                "solution": null
               }
             ]
           },
@@ -381,13 +382,13 @@
             "type": "folder",
             "AECNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Analog Electronic Circuits Notes",
+                "id": "1Fe6CopUlq8IfBa4ppvAcu2F-DO8CAxW9",
+                "solution": null
+              
               }
             ]
           }
@@ -407,13 +408,12 @@
             "type": "folder",
             "BMSBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Introduction To Basic Manufacturing Process & Workshop Technology",
+                "id": "13IkB64l3U_OKBa0EN34fqQOoMyAkrMpa",
+                "solution": null
               }
             ]
           },
@@ -422,13 +422,12 @@
             "type": "folder",
             "BMSNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Basic Manufacturing Systems Notes",
+                "id": "1Hzn4qtdd3An5rPrZGPd67Jznn6k5lVvM",
+                "solution": null
               }
             ]
           }
@@ -488,14 +487,14 @@
             "name": "BOOK",
             "type": "folder",
             "EVSBOOK": [
+              
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "",
+                "id": "/app/contribute/CSSE/1",
+                "solution": null
               }
             ]
           },
@@ -504,13 +503,12 @@
             "type": "folder",
             "EVSNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "contribute?",
+                "id": "/app/contribute/CSSE/1",
+                "solution": null
               }
             ]
           }

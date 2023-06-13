@@ -78,13 +78,12 @@
             "type": "folder",
             "Mathematics-2NOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "contribute?",
+                "id": "/app/contribute/CSCE/2",
+                "solution": null
               }
             ]
           }
@@ -175,13 +174,12 @@
             "type": "folder",
             "ChemistryNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Chemistry Notes",
+                "id": "1AnSEmdS2Wi5FHJFTDEVt4EFgEQIS5ugT",
+                "solution": null
               }
             ]
           }
@@ -272,13 +270,12 @@
             "type": "folder",
             "PCOMNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Professional Communication Notes",
+                "id": "1TLPDtbbHbLaU9-RTp7ykJlwZWJFBDF_r",
+                "solution": null
               }
             ]
           }
@@ -329,13 +326,12 @@
             "type": "folder",
             "BiologyNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "contribute?",
+                "id": "/app/contribute/CSCE/2",
+                "solution": null
               }
             ]
           }

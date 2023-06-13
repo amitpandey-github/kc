@@ -168,28 +168,34 @@
             "type": "folder",
             "CloudComputingBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing: Principles and Paradigms",
+                "id": "1_d-BMBHALbIQOX6T0ftcRZbYiEZ_4sci",
+                "solution": null
               }
             ]
           },
           {
             "name": "NOTES",
             "type": "folder",
-            "RCloudComputingNOTES": [
+            "CloudComputingNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing Slides 1",
+                "id": "1Fh0z9cQHwiux3KWf77b96SRX5ZsfAHJm",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing Slides 2",
+                "id": "1Nbxce2VxpuaJUS4cmZUS_estXgBSTeEP",
+                "solution": null
               }
             ]
           }

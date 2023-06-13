@@ -80,13 +80,12 @@
             "type": "folder",
             "IOTBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Internet of Things: A Hands-on Approach",
+                "id": "13MgsyH3rWokNaL3VyQnzZ4QzpXsSAymH",
+                "solution": null
               }
             ]
           },
@@ -95,13 +94,12 @@
             "type": "folder",
             "IOTNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Internet of Things Notes",
+                "id": "1hPp6RN1Ipf0ZTDKQwsbB1MhrCEAaNiUz",
+                "solution": null
               }
             ]
           }
@@ -274,13 +272,12 @@
             "type": "folder",
             "CNBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networks: A Top-down Approach",
+                "id": "1z1Mm63zHf3tSXbNlzeaU94_Zc5_eGtlY",
+                "solution": null
               }
             ]
           },
@@ -289,13 +286,28 @@
             "type": "folder",
             "CNNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networking Notes 1",
+                "id": "1GqZvp3v8sUw1fpLbr5IY7Uw5m4kWIhB_",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networking Notes 2",
+                "id": "1xRoTs3-bTMW2BcwARLXBXbSSrI0h7yPw",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networking Slides",
+                "id": "19_aeCAoDjjkwDorwYTg0IUUUh6LgIrlZ",
+                "solution": null
               }
             ]
           }
@@ -484,13 +496,12 @@
             "type": "folder",
             "DAABOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Introduction to AlgorithmsFundamentals of Computer Algorithms",
+                "id": "1VyxfINclRY5GXDd__GA8NAW8HJGRJx8J",
+                "solution": null
               }
             ]
           },
@@ -499,13 +510,21 @@
             "type": "folder",
             "DAANOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Design and Analysis of Algorithms Notes 1",
+                "id": "1V6ax8XCjLpQ0j48LtqsKI3dcDawI-1VV",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Design and Analysis of Algorithms Notes 2",
+                "id": "19KxKy2ChaGopwGLwb_o1NAMCL4g9XgQs",
+                "solution": null
+              
               }
             ]
           }
@@ -670,13 +689,12 @@
             "type": "folder",
             "SEBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Fundamentals of Software Engineering",
+                "id": "1Fpy3YWDXLI41eT7Ve08Rm3EVewooYoA5",
+                "solution": null
               }
             ]
           },
@@ -685,13 +703,36 @@
             "type": "folder",
             "SENOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Notes 1",
+                "id": "1iV2mH1h1p3qnMisCDxqG2-2bz0h7ybdG",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Notes 2",
+                "id": "1PZS_silP27FpNf1LKPPz6kkmpObbwhwk",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Notes 3",
+                "id": "1vJRa5fuTx-LJxu4Hb0O7WCErawV24u82",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Slides",
+                "id": "1wPqqqXo26SwY3rJRqKrj-CBJK9qO7Vic",
+                "solution": null
               }
             ]
           }
@@ -736,13 +777,12 @@
             "type": "folder",
             "BigDataBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "",
+                "id": "/app/contribute/IT/5",
+                "solution": null
               }
             ]
           },
@@ -751,13 +791,12 @@
             "type": "folder",
             "BigDataNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Big Data Slides",
+                "id": "1j9h4NOGlhKAhZMb-Y2TolGHnb-TEQk1N",
+                "solution": null
               }
             ]
           }
@@ -826,13 +865,12 @@
             "type": "folder",
             "CryptographyBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Introduction to Cryptography and Network Security",
+                "id": "1ZxG9G_IbWlh-1TDlu2Ezix91py_sqEHK",
+                "solution": null
               }
             ]
           },
@@ -841,13 +879,12 @@
             "type": "folder",
             "CryptographyNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cryptography Slides",
+                "id": "1mr_e2fuoBhpve0u1c5szHhahFGWNCcz3",
+                "solution": null
               }
             ]
           }
@@ -996,13 +1033,12 @@
             "type": "folder",
             "DataMiningandDataWarehousingBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Data Mining: Concepts and Techniques",
+                "id": "1nRBItBmXqhuViu9sl8bwCFubLv_z65lU",
+                "solution": null
               }
             ]
           },
@@ -1011,13 +1047,12 @@
             "type": "folder",
             "DataMiningandDataWarehousingNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Data Mining and Data Warehousing Notes",
+                "id": "1uc9-41er0rchsJtzRpL-3pLiQqnYzXt_",
+                "solution": null
               }
             ]
           }

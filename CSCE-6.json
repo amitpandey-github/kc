@@ -168,13 +168,12 @@
             "type": "folder",
             "CCBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing: Principles and Paradigms",
+                "id": "1_d-BMBHALbIQOX6T0ftcRZbYiEZ_4sci",
+                "solution": null
               }
             ]
           },
@@ -183,13 +182,20 @@
             "type": "folder",
             "CCNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing Slides 1",
+                "id": "1Fh0z9cQHwiux3KWf77b96SRX5ZsfAHJm",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing Slides 2",
+                "id": "1Nbxce2VxpuaJUS4cmZUS_estXgBSTeEP",
+                "solution": null
               }
             ]
           }
@@ -209,13 +215,12 @@
             "type": "folder",
             "CellularCommunicationeBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Wireless Communications: Principles and Practice",
+                "id": "1IDjQdtD9E3cJgqQKpbDLLi2Rvqayylxn",
+                "solution": null
               }
             ]
           },
@@ -224,13 +229,12 @@
             "type": "folder",
             "CellularCommunicationNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cellular Communication Slides",
+                "id": "12ngk6KoWjwZqKpKTS1Cu4f_PlDUm5ApH",
+                "solution": null
               }
             ]
           }
@@ -363,13 +367,12 @@
             "type": "folder",
             "MLBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Applied Machine Learning",
+                "id": "1WNVuOraimUY3g0lZncyC2goH159q0UJA",
+                "solution": null
               }
             ]
           },
@@ -378,13 +381,20 @@
             "type": "folder",
             "MLNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Machine Learning Notes",
+                "id": "1h0Q4K4HE7zTgiJyPQPo2ymNGLwHFJsSY",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Machine Learning Slides",
+                "id": "1X2_zLGHdyGX8DrAGfqcVHbR38KUNr0Kg",
+                "solution": null
               }
             ]
           }
@@ -469,14 +479,14 @@
             "type": "folder",
             "IOTBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Internet of Things: A Hands-on Approach",
+                "id": "13MgsyH3rWokNaL3VyQnzZ4QzpXsSAymH",
+                "solution": null
               }
+              
             ]
           },
           {
@@ -484,13 +494,12 @@
             "type": "folder",
             "IOTNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Internet of Things Notes",
+                "id": "1hPp6RN1Ipf0ZTDKQwsbB1MhrCEAaNiUz",
+                "solution": null
               }
             ]
           }
@@ -607,13 +616,12 @@
             "type": "folder",
             "DataAnalyticsBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Mastering Social Media Mining with Python",
+                "id": "1zpORybGu5MtmGsq4dB5SBhnbgilTVpDE",
+                "solution": null
               }
             ]
           },
@@ -622,13 +630,12 @@
             "type": "folder",
             "DataAnalyticsNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Data Analytics Slides",
+                "id": "1d1oKihQmwrSwJeBufijF1ucs3hcKXY5H",
+                "solution": null
               }
             ]
           }
@@ -673,13 +680,12 @@
             "type": "folder",
             "MobileComputingBOOK": [
               {
-                "name": "Beebook1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Fundamentals of Mobile Computing",
+                "id": "1jJwdkKBDfdNgg-lLftnom4uTOMQ6xpD6",
+                "solution": null
               }
             ]
           },
@@ -688,13 +694,12 @@
             "type": "folder",
             "MobileComputingNOTES": [
               {
-                "name": "NOTE-1",
-                "type": "file",
-                "data": [
-                  1,
-                  2,
-                  3
-                ]
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Mobile Computing Slides",
+                "id": "1gm78GW-xwqeRY0ArHozZrqEUYwvXcxV1",
+                "solution": null
               }
             ]
           }
